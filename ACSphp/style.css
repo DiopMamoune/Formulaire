@@ -1,0 +1,14 @@
+body{
+
+	background-image: url('lion.jpg');
+	-webkit-background-size: cover;
+	background-size: 100%;
+	
+}
+#case{
+	padding-top: 100px;
+}
+#cadre{
+	background: blue;
+	background: transparent;
+}
